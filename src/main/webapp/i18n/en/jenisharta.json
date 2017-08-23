@@ -1,0 +1,21 @@
+{
+    "pPhBadanApp": {
+        "jenisharta" : {
+            "home": {
+                "title": "Jenishartas",
+                "createLabel": "Create a new Jenisharta",
+                "createOrEditLabel": "Create or edit a Jenisharta"
+            },
+            "created": "A new Jenisharta is created with identifier {{ param }}",
+            "updated": "A Jenisharta is updated with identifier {{ param }}",
+            "deleted": "A Jenisharta is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Jenisharta {{ id }}?"
+            },
+            "detail": {
+                "title": "Jenisharta"
+            },
+            "jenis": "Jenis"
+        }
+    }
+}

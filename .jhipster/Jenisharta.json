@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "jenis",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20170823082741",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "jenisharta",
+    "pagination": "pagination"
+}

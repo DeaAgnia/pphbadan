@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+
+    <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823061750_added_entity_Jenis_harta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823062222_added_entity_Kelompok_harta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823063339_added_entity_Jenisharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823063528_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823075827_added_entity_Jenisharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823080530_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823082741_added_entity_Jenisharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823083900_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
+    <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
+    <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
+</databaseChangeLog>
