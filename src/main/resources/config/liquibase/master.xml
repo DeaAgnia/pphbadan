@@ -13,6 +13,8 @@
     <include file="config/liquibase/changelog/20170823080530_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20170823082741_added_entity_Jenisharta.xml" relativeToChangelogFile="false"/>
     <include file="config/liquibase/changelog/20170823083900_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20170823090330_added_entity_Kelompokharta.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
+    <include file="config/liquibase/changelog/20170823090330_added_entity_constraints_Kelompokharta.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
 </databaseChangeLog>

@@ -1,0 +1,22 @@
+{
+    "pPhBadanApp": {
+        "kelompokharta" : {
+            "home": {
+                "title": "Kelompokhartas",
+                "createLabel": "Create a new Kelompokharta",
+                "createOrEditLabel": "Create or edit a Kelompokharta"
+            },
+            "created": "A new Kelompokharta is created with identifier {{ param }}",
+            "updated": "A Kelompokharta is updated with identifier {{ param }}",
+            "deleted": "A Kelompokharta is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Kelompokharta {{ id }}?"
+            },
+            "detail": {
+                "title": "Kelompokharta"
+            },
+            "nama": "Nama",
+            "jenisharta": "Jenisharta"
+        }
+    }
+}
